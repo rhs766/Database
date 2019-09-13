@@ -17,7 +17,6 @@ Example input file (without comments, group can be 1 or 2, position can be 1-10)
 1 3 1 5 // User 3 from Group 1 requesting position 3 at time 3 for 5 sec.  
 2 1 3 1 // User 4 from Group 2 requesting position 1 at time 6 for 1 sec.  
 
-
 Example output:  
 User 1 from Group 1 arrives to the DBMS  
 User 1 is accessing the position 3 of the database for 5 second(s)  
